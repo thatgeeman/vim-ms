@@ -124,6 +124,13 @@ di( delete everything in the parenthesis
 
 da( delete all in paranthesis
 
+dw delete word
+
+d0 delete to begenning of line
+
+d$ delete to end of line
+
+cw change word and become insert mode
 
 
 ## Add custom keybinding
