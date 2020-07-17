@@ -50,8 +50,13 @@ set hidden
 " it contains any capital letters. This makes searching more convenient.
 set ignorecase
 set smartcase
-colorscheme murphy
+colorscheme elflord
 " ls /usr/share/vim/vim*/colors/
+" darkblue.vim  delek.vim   elflord.vim  koehler.vim  murphy.vim
+" peachpuff.vim  shine.vim  torte.vim
+" blue.vim    default.vim   desert.vim  evening.vim  morning.vim  pablo.vim
+" ron.vim        slate.vim  zellner.vim
+
 
 
 " Enable searching as you type, rather than waiting till you press enter.
